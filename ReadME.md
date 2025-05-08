@@ -29,22 +29,3 @@ pip install PyPDF2
 └── ReadME.md
 ```
 
---- 
-
-## 🧪 Example
-
-```bash
-python query_retriever.py "What is FAISS?"
-```
-
---- 
-
-## 🤝 Contributing
-
-Feel free to submit issues or pull requests for improvements.
-
---- 
-
-## 📜 License
-
-This project is licensed under the MIT License.
