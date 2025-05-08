@@ -23,9 +23,9 @@ pip install PyPDF2
 
 ```
 .
-├── documents/
-├── build_index.py
-├── query_retriever.py
+├── homeWork.ipynb
+├── retriever.py
+├── salahuddin_ayubi.pdf
 └── ReadME.md
 ```
 
