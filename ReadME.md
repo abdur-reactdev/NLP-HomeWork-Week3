@@ -18,6 +18,7 @@ The `Retriever` class supports document chunking, indexing, semantic querying, a
 
 ## 📂 Project Structure
 
+```bash
 NLP-HomeWork-Week3/
 │
 ├── retriever.py # Core Retriever class (chunking, indexing, query, save/load)
@@ -26,3 +27,4 @@ NLP-HomeWork-Week3/
 ├── documents/ # Input docs (e.g., PDF, TXT)
 ├── README.md # Project description and usage guide
 └── retriever_store/ # Saved FAISS index and chunks (created at runtime)
+```
